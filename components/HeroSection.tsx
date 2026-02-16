@@ -18,7 +18,7 @@ export default function HeroSection() {
                 Alkaline Water – Hidup Sehat Dimulai dari Air yang Anda Minum
               </h1>
               <p className="text-lg sm:text-xl text-white/90 leading-relaxed text-balance mb-8">
-                Air alkali kaya antioksidan yang membantu menjaga kesehatan, mencegah penyakit, dan meningkatkan energi setiap hari.
+                Air alkali kaya antioksidan yang membantu menjaga kesehatan, mencegah penyakit, dan meningkatkan energi setiap hari
               </p>
             </div>
             
