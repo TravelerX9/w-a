@@ -10,7 +10,7 @@ export default function BenefitsSection() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-900 mb-4 text-balance">
-            Manfaat Utama Alkaline Water
+            Manfaat Utama Alkaline Water.
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto text-balance">
             Rasakan transformasi kesehatan dengan manfaat luar biasa dari air alkali berkualitas tinggi
